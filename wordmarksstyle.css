@@ -1,0 +1,42 @@
+*{
+    margin:0px;
+    padding:0px;
+
+}
+.ms-auto i{
+    padding:10px;
+    font-weight: 700;
+}
+.ms-auto{
+    font-weight: 900;
+    font-family: Larsseit-Bold,sans-serif;
+}
+#navbarSupportedContent{
+    font-weight: 900;
+    font-family: Larsseit-Bold,sans-serif;
+    z-index: 999999;
+}
+.text{
+    font-family: Larsseit-Bold,sans-serif;
+    font-weight: 900;
+    margin-top:80px;
+}
+.a1{
+    height:400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.a2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.b2{
+    height:100px;
+    
+}
+.responsive{
+    height:auto;
+    width:100%;
+}
